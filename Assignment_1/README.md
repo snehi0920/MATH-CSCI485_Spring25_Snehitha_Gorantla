@@ -63,7 +63,15 @@
 
 •	The most important features have a rank of 1.
 
- ![image](https://github.com/user-attachments/assets/2776c184-be14-4ae6-89f1-daaad8abc14e)
+ ![image](https://github.com/user-attachments/assets/556b54b8-9402-4085-9bd5-41a57e8eb131)
+ 
+![image](https://github.com/user-attachments/assets/5374403c-0f20-4156-bb7d-2d8b29940671)
+
+![image](https://github.com/user-attachments/assets/59f257ab-e8ce-4fc7-a37c-188945836e2d)
+
+![image](https://github.com/user-attachments/assets/39980e81-fb45-423a-a5bb-214deb324349)
+
+![image](https://github.com/user-attachments/assets/6399834d-7620-43c5-8b05-55e924c59f50)
 
 #### **REFLECTIONS:**
 
