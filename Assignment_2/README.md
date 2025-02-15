@@ -2,6 +2,7 @@
 **1.	Import Libraries:** 
 
 Pandas for data manipulation, numpy for numerical operations, StandardScaler for data normalization, PCA for Principal Component Analysis, matplotlib.pyplot for plotting, mpl_toolkits.mplot3d for 3D plotting, seaborn for enhanced visualizations, and TSNE for t-SNE.
+
 **2.	Load and Prepare Data:**
 
 Load the red wine quality dataset from a URL using pandas. It then splits the data into features (everything except 'quality') and the target variable 'quality'.
