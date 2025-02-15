@@ -6,6 +6,7 @@ Pandas for data manipulation, numpy for numerical operations, StandardScaler for
 **2.	Load and Prepare Data:**
 
 Load the red wine quality dataset from a URL using pandas. It then splits the data into features (everything except 'quality') and the target variable 'quality'.
+
 ![image](https://github.com/user-attachments/assets/d3a62405-b9c1-4899-89bf-6dfd58df1dca)
 
  
@@ -16,6 +17,7 @@ The code uses StandardScaler to normalize the features. Normalization is importa
 **4.	2D Scatter Plot Before PCA:** 
 
 Creates a 2D scatter plot of two of the original features, colored by wine quality. This gives a visual sense of the data distribution in the original feature space.
+
 ![image](https://github.com/user-attachments/assets/df46ec2d-d0b3-489c-adaf-311c42497e26)
 
  
@@ -26,6 +28,7 @@ Applies PCA to the normalized features to reduce the dimensionality to 2 and 3 c
 Calculates and prints the explained variance ratio for the first two principal components. This tells you how much of the total variance in the data is captured by these components.
 
 Creates 2D and 3D scatter plots of the PCA results, colored by wine quality. These plots visualize the data in the reduced-dimensional space
+
 ![image](https://github.com/user-attachments/assets/7a39baf0-3382-4383-a8ee-027a62972021)
 ![image](https://github.com/user-attachments/assets/bf93fe59-a08c-40e5-961f-36b0a8de6180)
 
@@ -36,6 +39,7 @@ Creates 2D and 3D scatter plots of the PCA results, colored by wine quality. The
 Applies t-SNE to the normalized features to reduce the dimensionality to 2 and 3 components. random_state is set for reproducibility.
 
 Creates 2D and 3D scatter plots of the t-SNE results, colored by wine quality. These plots visualize the data in the reduced-dimensional space, emphasizing local neighborhoods and clusters.
+
 ![image](https://github.com/user-attachments/assets/6867946e-5af7-46d7-9201-8e8da6ba01f3)
 ![image](https://github.com/user-attachments/assets/4e0a782d-63bd-4dd6-9c3b-716417e506ec)
  
